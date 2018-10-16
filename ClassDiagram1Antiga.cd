@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TI_2._0.Bilhete" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAgAEAAIAAAAAAAAAAAAAABAAAACQAAAAgAAA=</HashCode>
+      <FileName>Bilhete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.Cat_Abacate" Collapsed="true">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cat_Abacate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.Cat_Laranja" Collapsed="true">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cat_Laranja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.Cat_Manga" Collapsed="true">
+    <Position X="12.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cat_Manga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.Categoria" Collapsed="true">
+    <Position X="10.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.Cidade" Collapsed="true">
+    <Position X="3.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Cidade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.Cliente" Collapsed="true">
+    <Position X="8.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAKAAEACAAAAAAAAAAAQCEBAEEAAwAAEABAAFAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.Controle" Collapsed="true">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAABAAEAAAABBEAAAARAA=</HashCode>
+      <FileName>Controle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.Data" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAACAAECAAAAAGgQCAAQAAAAAAAAAAIAAAAAAgAAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.ExceptionGeral" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionGeral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.ExceptionError1" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionGeral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.ExceptionError2" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionGeral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.Form1" Collapsed="true">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/5GjixmAnKPDTBxgW52jZBEnQfMMsNKe6aECaYlvFEQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.Voo" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIDAkACAQBAAAAAAAAAAAAAIAAAACAAAAAAAAAAAgI=</HashCode>
+      <FileName>Voo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.VooNormal" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VooNormal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_2._0.VooPromocional" Collapsed="true">
+    <Position X="6.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VooPromocional.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
